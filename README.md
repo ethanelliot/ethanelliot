@@ -16,7 +16,7 @@
 - Flask
 - SQLite
 ## Interests
-- I love lifting weights and hiking when i'm not busy studying or programing.
+I love lifting weights and hiking when i'm not busy studying or programing.
 
 ## Profiles
 - [GitHub](https://github.com/ethanelliot/)
