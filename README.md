@@ -1,16 +1,23 @@
-## Hi there 👋
+# My Bio
+👋 Hi, I’m Ethan Elliot. A passionate Software Engineering student at the university of Canterbury.
 
-<!--
-**EthanElliot/EthanElliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+### Programming Languages 
+- Javascript
+- Typescript
+- C
+- python
+- html
+- css
+- SQl
+### Frameworks and tools
+- Tailwindcss
+- React
+- Flask
+- SQLite
+## Interests
+- I love lifting weights and hiking when i'm not busy studying or programing.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profiles
+- [GitHub](https://github.com/ethanelliot/)
+- [LinkedIn](https://www.linkedin.com/in/ethan-elliot-0014802a0)
