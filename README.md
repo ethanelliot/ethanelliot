@@ -1,20 +1,25 @@
 # My Bio
-👋 Hi, I’m Ethan Elliot. A passionate Software Engineering student at the university of Canterbury.
+👋 Hi, I’m Ethan. A passionate Software Engineering student at the university of Canterbury.
 
 ## Skills
 ### Programming Languages 
-- Javascript
-- Typescript
+- Python
+- Java
 - C
-- python
-- html
-- css
-- SQl
-### Frameworks and tools
-- Tailwindcss
+- SQL
+- TypeScript
+- HTML/CS
+### Frameworks 
 - React
 - Flask
-- SQLite
+- Django
+- Tailwind CSS
+- Java FX
+### Libraries
+- NumPy
+- Matplotlib
+- Pytest
+
 ## Interests
 I love lifting weights and hiking when i'm not busy studying or programing.
 
